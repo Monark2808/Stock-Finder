@@ -8,6 +8,6 @@ When you run `app.py`, it will say that the app is running on http://localhost:8
 
 To learn more check out our [documentation](https://plot.ly/dash).
 
-The following is a screenshot for the app in this repo:
+
 
 
